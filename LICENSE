@@ -1,0 +1,31 @@
+LICENSE
+
+TERMS AND CONDITIONS:
+
+- Under no circumstances may any members of the development team be taken to court over actions caused by
+  misuse of any of the given products, unless they are specifically involved, for example, if there was
+  anything provided that was designed to be used for malicious intent, then the team may be involved.
+
+- In any related court cases, only the head contributors and owner(s) may be brought in as witnesses or 
+  defendants. If the court case is relating to anything outside of the company itself, then only the true
+  contributors and witnesses to these occurences may be presented in court.
+
+- This product may not be distributed without authorisation, otherwise, programs may only be used on an AS-IS
+  basis, and any selling of these products without permission from the development team or without written
+  licensing headers to state the true owners of the development, will result in fines of several thousand
+  American Dollars as well as any money made from exploitation of this product will also be revoked and if
+  not recieved within 30 days of the notice, use of this product will be banned and the required money will
+  increase.
+
+- Any redistributed files must have the following header in all files: [[
+
+/**
+ * Redistributed under license, original distributors of the project are listed below:
+ * 
+ * [[ LIST OF DISTRIBUTORS ]]
+ * 
+ * A link to the original project can be found here: [[ LINK ]]
+ * The full license can be found here: [[ LICENSE ]]
+ */
+
+]] (Do not include the square brackets, they are only there to mark the start and end.
